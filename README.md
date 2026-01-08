@@ -122,3 +122,13 @@ Review the report and PPT for summarized insights.
 📌 Conclusion
 
 This project showcases practical Data Analytics skills including Python, SQL, Power BI, and reporting. It is designed to reflect real-world business analysis and is suitable for Data Analyst roles.
+
+👤 Author
+
+Vikash Kr Madheshiyа
+
+Data Analyst | Machine Learning Enthusiast
+
+📧 Email: vikash6534@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/vikash-kr-madheshiya-375a82239
