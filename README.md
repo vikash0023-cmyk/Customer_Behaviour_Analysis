@@ -101,7 +101,7 @@ Provided actionable insights to improve sales and marketing strategies
 
 Clone this repository:
 
-https://github.com/vikash0023-cmyk/Customer_Behaviour_Analysis/edit/main/README.md
+https://github.com/vikash0023-cmyk/Customer_Behaviour_Analysis/blob/main/Customer_Shopping_Behavior_Analysis.ipynb
 
 
 Install required Python libraries:
